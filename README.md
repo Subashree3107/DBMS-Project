@@ -1,2 +1,2 @@
 # DBMS-Project
-This document outlines the design of an Employee Information Management System, 
+This document outlines the design of an Employee Information Management System.The system incorporates user authentication, employee information management, experience tracking, achievement recording, project assignments, salary management, and leave applications, all overseen by managers.The User entity facilitates authentication through a login system, with additional support for user registration capturing essential user details. The Employee entity captures comprehensive employee information, linking to their professional experiences, achievements, and current projects.
